@@ -1,5 +1,4 @@
 print('Hello World!')
-print(9, 8)
-print(10)
+
 print(900)
 print('iiiii')
